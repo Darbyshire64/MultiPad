@@ -1,5 +1,5 @@
 # MultiPad
-An Multifunctional inspired macro pad. That im submiting for @HackClub's <a href="highway.hackclub.com">highway</a>. The macro pad has a minimalist but functional design, With Multi layerd functionality
+An Multifunctional inspired macro pad. That im submiting for HackClub's <a href="highway.hackclub.com">highway</a>. The macro pad has a minimalist but functional design, With Multi layerd functionality
 
 
 # Features
