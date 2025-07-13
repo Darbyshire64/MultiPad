@@ -2075,7 +2075,7 @@
 			)
 		)
 		(fp_text user "SDA"
-			(at 34.5 9.81 90)
+			(at 34.385 9.81 90)
 			(layer "F.SilkS")
 			(uuid "720e81e8-e64e-488b-a72a-a7f6ef092c63")
 			(effects
