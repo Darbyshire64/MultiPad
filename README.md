@@ -1,6 +1,3 @@
-# Firmware Notice.
-I do not own the entirety of the firmware folder. only main.py was written by me everything else is part of the <a href="https://github.com/KMKfw/kmk_firmware"> KMK Firmware project </a>. as well as this use my firmware at your own risk it has been entierly developed for my personal needs. i cannot garantue functionality or security.
-
 # MultiPad
 An Multifunctional inspired macro pad. That im submiting for HackClub's <a href="highway.hackclub.com">highway</a>. The macro pad has a minimalist but functional design, With Multi layerd functionality
 
