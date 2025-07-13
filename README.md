@@ -57,17 +57,17 @@ Hold F Key and Key 7 for 3 seconds. OLED and Neo Pixle Will light regardless of 
 
 # BOM
 
-|QTY| Item                      | *Price |
-|---|---------------------------|--------|
-| 9 | Cherry MX Linear          | £11.61 |
-| 1 | Seed Studio XIAO RP2040   | £3.44  |
-| 1 | 0.91 OLED SSD1306 Dsiplay | N/A    |
-| 5 | *Custom PCB               | $2.37  |
-| 2 | *3D Printed Case          | *£0    |
-| 9 | THT 1N4148 Diodes         | £0.63  |
-| 8 | *White DSA Keycaps        | £34.96 |
-| 3 | M3 Heatset Inserts        | N/A    |
-| 3 | M3x16mm Screws            | N/A    |
+|QTY| Item                      | *Price | Link                               |
+|---|---------------------------|--------|------------------------------------|
+| 9 | Cherry MX Linear          | £11.61 | <a href="https://www.digikey.co.uk/en/products/detail/cherry-americas-llc/MX2A-L1NN/21738390">Link</a>|
+| 1 | Seed Studio XIAO RP2040   | £3.44  |<a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/102010428/14672129">Link</a>|
+| 1 | 0.91 OLED SSD1306 Dsiplay | N/A    | N/A |
+| 5 | *Custom PCB               | $2.37  | N/A |
+| 2 | *3D Printed Case          | *£0    | N/A |
+| 9 | THT 1N4148 Diodes         | £0.63  |<a href="https://www.digikey.co.uk/en/products/detail/onsemi/1N4148/458603">Link</a>|
+| 8 | *White DSA Keycaps        | £34.96 |<a href="https://www.digikey.co.uk/en/products/detail/adafruit-industries-llc/4998/14552195">Link</a>|
+| 3 | M3 Heatset Inserts        | N/A    | N/A |
+| 3 | M3x16mm Screws            | N/A    | N/A |
 
 * Price Sourced from DigiKey UK in GBP Excluding VAT
 * PCB Price from JLC PCB in usd excluding shiping or any coupons from HC.
