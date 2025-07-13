@@ -58,3 +58,23 @@ Hold F Key and Key 7 for 3 seconds. OLED and Neo Pixle Will light regardless of 
 
 
 
+# BOM
+
+|QTY| Item                      | *Price |
+|---|---------------------------|--------|
+| 9 | Cherry MX Linear          | £11.61 |
+| 1 | Seed Studio XIAO RP2040   | £3.44  |
+| 1 | 0.91 OLED SSD1306 Dsiplay | N/A    |
+| 5 | *Custom PCB               | $2.37  |
+| 2 | *3D Printed Case          | *£0    |
+| 9 | THT 1N4148 Diodes         | £0.63  |
+| 8 | *White DSA Keycaps        | £34.96 |
+| 3 | M3 Heatset Inserts        | N/A    |
+| 3 | M3x16mm Screws            | N/A    |
+
+* Price Sourced from DigiKey UK in GBP Excluding VAT
+* PCB Price from JLC PCB in usd excluding shiping or any coupons from HC.
+* 2 Cases because i made two case designs.
+* 8 key caps because i have 1 blue one already i would like to use
+* Price is free because printed via printing legion. IDK delivery cost so 0 for now but acount for delivery
+
