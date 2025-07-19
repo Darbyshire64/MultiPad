@@ -16,8 +16,8 @@ An Multifunctional inspired macro pad. That im submiting for HackClub's <a href=
 |    4    |    5   |    6   |
 |    7    |    8   |    9   |
 
-# FIRMWARE NOTICE
- The Below Features of the Firmware are NOT complete. The firmware currently only initalizes oled and functions as a numpad. this is because i find it hard to develop feautres without having a platform to develop on.
+> [!Warning]
+> The Below Features of the Firmware are NOT complete. The firmware currently only initalizes oled and functions as a numpad. this is because i find it hard to develop feautres  without having a platform to develop on.
 
 # The Function Key
 
